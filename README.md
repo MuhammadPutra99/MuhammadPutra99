@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Typescript, Next.js<br>💬 Ask me about HTML & Tailwind CSS<br>💘 I love to learn about FrontEnd, Web Design<br>💯 I'm interested to be Frontend Developer 
+🌱 I’m currently learning React, Typescript, Next.js<br>💬 Ask me about HTML & Tailwind CSS<br>💘 I love to learn about FrontEnd, Web Design, Digital Marketing<br>💯 I'm interested to be FrontEnd Web Developer 
 
 
 ## 🌐 Socials:
